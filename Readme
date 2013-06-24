@@ -1,0 +1,2 @@
+Package try provides a non-blocking mutex.
+http://godoc.org/github.com/kr/try
